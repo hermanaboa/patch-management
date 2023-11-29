@@ -4,3 +4,5 @@ apt-get upgrade -y
 ls
 
 pwd
+
+date
