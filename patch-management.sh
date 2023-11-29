@@ -4,7 +4,7 @@ apt-get upgrade -y
 ls
 
 pwd
-
+lsblk
 date
 
 
