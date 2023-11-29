@@ -5,6 +5,9 @@ ls
 
 pwd
 
+date
+
+
 
 
 nproc
