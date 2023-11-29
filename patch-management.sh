@@ -4,3 +4,7 @@ apt-get upgrade -y
 ls
 
 pwd
+
+
+
+nproc
